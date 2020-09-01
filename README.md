@@ -1,2 +1,2 @@
 # CURSOS
-Cursos v3
+Catálogo Cursos
